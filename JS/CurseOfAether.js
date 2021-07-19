@@ -1,6 +1,4 @@
 var curseOfAether;
-//import { pdfjsLib } from "/node_modules/pdfjs-dist/build/pdf.js";
-console.log(pdfjsLib)
 
 // Load the website once the window is loaded
 window.onload = function() {
