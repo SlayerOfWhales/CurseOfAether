@@ -1,0 +1,49 @@
+<New Master Entry>
+/testPath
+Master Entry 1
+a
+
+<New Sub Entry>
+/Test.pdf
+Sub entry 1
+b
+
+<New Sub Entry>
+/Test.pdf
+Sub entry 2
+b
+
+<New Sub Entry>
+/Test.pdf
+Sub entry 3
+b
+
+<New Sub Entry>
+/Test.pdf
+Sub entry 4
+b
+
+<New Sub Entry>
+/Test.pdf
+Sub entry 5
+b
+
+<New Master Entry>
+/testPath
+Master Entry 2
+a
+
+<New Sub Entry>
+/Test.pdf
+Sub entry 1
+b
+
+<New Sub Entry>
+/Test.pdf
+Sub entry 2
+b
+
+<New Sub Entry>
+/Test.pdf
+Sub entry 3
+b

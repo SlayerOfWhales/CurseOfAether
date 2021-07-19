@@ -1,0 +1,40 @@
+The number of empty lines between entries does not matter
+NOTICE: ALL SUB ENTRIES BELOW A MASTER ENTRY WILL BE TIED TO THAT MASTER ENTRY IN DESCENDING ORDER SUBSEQUENT MASTER ENTRIES WILL BREAK THE CHAIN
+THE FIRST ENTRY MUST BE A MASTER ENTRY
+Content Entry Syntax:
+
+<New Master Entry>
+Path (from Writing/SelectedContentFolder/)
+Block Name
+Description
+
+(It does not matter how many lines of space are between entries, it can even be zero!)
+
+<New Sub Entry>
+Path (From Master Entry)
+Sub Block Name
+Description 
+
+
+
+Example:
+
+<New Master Entry>
+/Colony Lost
+Colony Lost
+After recieving a distress call, a strike team is swiftly assembled to save a small break-away colony from falling into abomination
+
+<New Sub Entry>
+/Colony Lost.pdf
+Colony Lost
+After recieving a distress call, a strike team is swiftly assembled to save a small break-away colony from falling into abomination
+
+<New Master Entry>
+/Arc1
+Arc 1
+Quinton returns to Tsar
+
+<New Sub Entry>
+/Chapter 1
+1.1: The Start 
+Its the start

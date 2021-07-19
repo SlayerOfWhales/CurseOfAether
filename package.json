@@ -1,0 +1,14 @@
+{
+  "name": "the_curse_of_aether",
+  "version": "1.0.0",
+  "description": "website for the many stories regarding the curse of aether",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ryan Mussell",
+  "license": "ISC",
+  "dependencies": {
+    "pdfjs-dist": "^2.8.335"
+  }
+}
