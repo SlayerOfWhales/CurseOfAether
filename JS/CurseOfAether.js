@@ -1,6 +1,6 @@
 var curseOfAether;
-console.log("fucking please");
-import pdfjsLib from "pdfjs-dist"; // Trying my best PLEASE
+//import { pdfjsLib } from "/node_modules/pdfjs-dist/build/pdf.js";
+console.log(pdfjsLib)
 
 // Load the website once the window is loaded
 window.onload = function() {
@@ -22,10 +22,10 @@ class CurseOfAether {
 
         // Imports
         this.PDFJS = PDFJS;
-        PDFJS.GlobalWorkerOptions.workerSrc = "../node_modules/pdfjs-dist/build/pdf.worker.js";
+        //this.PDFJS.GlobalWorkerOptions.workerSrc = "node_modules/pdfjs-dist/build/pdf.worker.js";
 
         // Path Constants
-        this.BASE_PATH = "../Writing/";
+        this.BASE_PATH = "Writing/";
         this.MAIN_STORY_PATH = this.BASE_PATH + "The Curse of Aether/";
         this.SHORT_STORY_PATH = this.BASE_PATH + "Short Stories/";
 
