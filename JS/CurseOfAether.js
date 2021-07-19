@@ -22,7 +22,7 @@ class CurseOfAether {
 
         // Imports
         this.PDFJS = PDFJS;
-        //this.PDFJS.GlobalWorkerOptions.workerSrc = "node_modules/pdfjs-dist/build/pdf.worker.js";
+        this.PDFJS.GlobalWorkerOptions.workerSrc = "node_modules/pdfjs-dist/build/pdf.worker.js";
 
         // Path Constants
         this.BASE_PATH = "Writing/";
