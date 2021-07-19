@@ -1,4 +1,5 @@
 var curseOfAether;
+console.log("fucking please");
 const pdfjsLib = require("pdfjs-dist"); // Trying my best PLEASE
 
 // Load the website once the window is loaded
