@@ -1,5 +1,5 @@
 var curseOfAether;
-const pdfjsLib = require("pdfjs-dist"); // Trying my best
+const pdfjsLib = require("pdfjs-dist"); // Trying my best PLEASE
 
 // Load the website once the window is loaded
 window.onload = function() {
