@@ -1,4 +1,5 @@
 var curseOfAether;
+const pdfjsLib = require("pdfjs-dist");
 
 // Load the website once the window is loaded
 window.onload = function() {
